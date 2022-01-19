@@ -43,3 +43,17 @@ commit_code - код коммита, который можно посмотре�
 > git chechout master
 
 ![error: picture not found](sticker.png)
+
+## Ветки в Git
+
+Чтобы посмотреть все ветки, нужно ввести:
+
+> git branch
+
+Чтобы создать новую ветку с именем branch_name:
+
+> git branch branch_name
+
+Переход к ветке branch_name:
+
+> git checkout branch_name
