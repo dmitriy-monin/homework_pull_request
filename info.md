@@ -56,4 +56,4 @@ commit_code - код коммита, который можно посмотре�
 
 Переход к ветке branch_name:
 
-> git checkout branch_name
+> git checkout branch_name 
