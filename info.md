@@ -91,8 +91,8 @@ commit_code - код коммита, который можно посмотре�
 
 > git branch --help
 
-> git merge --help
-
 > git checkout --help
+
+> git merge --help
 
 # Удачи!
